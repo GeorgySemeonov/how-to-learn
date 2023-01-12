@@ -3,7 +3,7 @@
   align-self: center;
   margin: 100px 0px 0px 0px;
   z-index: 1;
-  width: 648px;
+  max-width: 648px;
   line-height: 1.15em;
   font-size: 120px;
   font-weight: 600;
