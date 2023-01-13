@@ -7,3 +7,7 @@
   align-items: center;
   list-style: none;
 }
+
+.cards__item:nth-child(3n){
+  margin: 60px 0px 0px 0px;
+}
